@@ -1,1 +1,2 @@
-# MERN-New-
+# mern-ecommerce
+Ecommerce website using MERN stack
